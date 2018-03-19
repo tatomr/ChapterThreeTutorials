@@ -1,0 +1,10 @@
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Progm Problem2\bin\Debug\Progm Problem2.exe.config
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Progm Problem2\bin\Debug\Progm Problem2.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Progm Problem2\bin\Debug\Progm Problem2.pdb
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Progm Problem2\obj\Debug\ProgramProblem2.csprojResolveAssemblyReference.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Progm Problem2\obj\Debug\Progm_Problem2.Form1.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Progm Problem2\obj\Debug\Progm_Problem2.Properties.Resources.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Progm Problem2\obj\Debug\ProgramProblem2.csproj.GenerateResource.Cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Progm Problem2\obj\Debug\ProgramProblem2.csproj.CoreCompileInputs.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Progm Problem2\obj\Debug\Progm Problem2.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Progm Problem2\obj\Debug\Progm Problem2.pdb
