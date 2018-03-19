@@ -1,0 +1,9 @@
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Tips Tax and Totals\bin\Debug\Tips Tax and Totals.exe.config
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Tips Tax and Totals\bin\Debug\Tips Tax and Totals.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Tips Tax and Totals\bin\Debug\Tips Tax and Totals.pdb
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Tips Tax and Totals\obj\Debug\Tips_Tax_and_Totals.Properties.Resources.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Tips Tax and Totals\obj\Debug\Programming_Problems.Form1.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Tips Tax and Totals\obj\Debug\Tips Tax and Totals.csproj.GenerateResource.Cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Tips Tax and Totals\obj\Debug\Tips Tax and Totals.csproj.CoreCompileInputs.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Tips Tax and Totals\obj\Debug\Tips Tax and Totals.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Tips Tax and Totals\obj\Debug\Tips Tax and Totals.pdb
