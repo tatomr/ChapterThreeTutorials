@@ -1,0 +1,10 @@
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Sales Price Calculator\bin\Debug\Sales Price Calculator.exe.config
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Sales Price Calculator\bin\Debug\Sales Price Calculator.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Sales Price Calculator\bin\Debug\Sales Price Calculator.pdb
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Sales Price Calculator\obj\Debug\Sales Price Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Sales Price Calculator\obj\Debug\Sales_Price_Calculator.form1.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Sales Price Calculator\obj\Debug\Sales_Price_Calculator.Properties.Resources.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Sales Price Calculator\obj\Debug\Sales Price Calculator.csproj.GenerateResource.Cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Sales Price Calculator\obj\Debug\Sales Price Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Sales Price Calculator\obj\Debug\Sales Price Calculator.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\Sales Price Calculator\obj\Debug\Sales Price Calculator.pdb

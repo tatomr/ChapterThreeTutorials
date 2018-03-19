@@ -1,0 +1,10 @@
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\ProgramProblem4, Sales Tax and Total\bin\Debug\ProgramProblem4, Sales Tax and Total.exe.config
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\ProgramProblem4, Sales Tax and Total\bin\Debug\ProgramProblem4, Sales Tax and Total.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\ProgramProblem4, Sales Tax and Total\bin\Debug\ProgramProblem4, Sales Tax and Total.pdb
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\ProgramProblem4, Sales Tax and Total\obj\Debug\ProgramProblem4, Sales Tax and Total.csprojResolveAssemblyReference.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\ProgramProblem4, Sales Tax and Total\obj\Debug\ProgramProblem4__Sales_Tax_and_Total.Form1.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\ProgramProblem4, Sales Tax and Total\obj\Debug\ProgramProblem4__Sales_Tax_and_Total.Properties.Resources.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\ProgramProblem4, Sales Tax and Total\obj\Debug\ProgramProblem4, Sales Tax and Total.csproj.GenerateResource.Cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\ProgramProblem4, Sales Tax and Total\obj\Debug\ProgramProblem4, Sales Tax and Total.csproj.CoreCompileInputs.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\ProgramProblem4, Sales Tax and Total\obj\Debug\ProgramProblem4, Sales Tax and Total.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\Tutorial 3-1\ProgramProblem4, Sales Tax and Total\obj\Debug\ProgramProblem4, Sales Tax and Total.pdb
